@@ -1,0 +1,2 @@
+select * from PCPEDi
+WHERE NUMPED='4314000010'
